@@ -1,5 +1,4 @@
 # About Me
-
 ---
 
 I'm a passionate **Web Developer** focused on **Frontend Development** and **UI/UX Design**. Currently, I'm a **4th-year student** at the **Polytechnic University of the Philippines**, working on various projects and continuing to expand my skills in web development and design.
