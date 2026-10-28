@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./readme-header.svg"
+  <img src="./readme.svg"
        alt="Jeruh Fornal's profile banner"
        width="100%">
 </p>
