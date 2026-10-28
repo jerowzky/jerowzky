@@ -1,0 +1,64 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#080d0b"/>
+      <stop offset="100%" stop-color="#101d17"/>
+    </linearGradient>
+
+    <radialGradient id="glow">
+      <stop offset="0%" stop-color="#03a271" stop-opacity=".25"/>
+      <stop offset="100%" stop-color="#03a271" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="350" rx="24" fill="url(#bg)"/>
+  <ellipse cx="1000" cy="100" rx="350" ry="250" fill="url(#glow)"/>
+
+  <!-- Decorative lines -->
+  <path d="M850 0 L1200 350 M950 0 L1200 250"
+        stroke="#03a271" stroke-opacity=".18" fill="none"/>
+
+  <!-- Accent -->
+  <rect x="75" y="78" width="48" height="5" rx="2.5" fill="#03a271"/>
+
+  <!-- Name -->
+  <text x="75" y="145"
+        fill="#ffffff"
+        font-family="Unbounded, sans-serif"
+        font-size="43"
+        font-weight="800"
+        letter-spacing="-1">
+    JERUH FORNAL
+  </text>
+
+  <!-- Role -->
+  <text x="77" y="190"
+        fill="#4fd9a8"
+        font-family="Arial, sans-serif"
+        font-size="18"
+        letter-spacing="2">
+    WEB DEVELOPMENT · UI/UX DESIGN
+  </text>
+
+  <text x="77" y="220"
+        fill="#a3b5ac"
+        font-family="Arial, sans-serif"
+        font-size="16">
+    Information Technology · PUP
+  </text>
+
+  <!-- Bottom accent -->
+  <rect x="75" y="275" width="1050" height="1" fill="#03a271" opacity=".35"/>
+
+  <text x="75" y="307"
+        fill="#6b8176"
+        font-family="Arial, sans-serif"
+        font-size="13"
+        letter-spacing="2">
+    DESIGN · BUILD · TEST
+  </text>
+
+  <circle cx="1125" cy="307" r="5" fill="#03a271"/>
+</svg>
